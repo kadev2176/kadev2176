@@ -2,7 +2,7 @@
 # Senior Software Engineer (Blockchain & Rust) 👋 
 
 ## About Me
-Passionate and results-driven Senior Blockchain Engineer with over 5 years of professional experience in designing, developing, and implementing blockchain solutions. Adept at leading development teams, driving innovation, and contributing to open-source projects. Committed to staying at the forefront of blockchain technology.
+Passionate and results-driven Senior Blockchain Engineer with over 7 years of professional experience in designing, developing, and implementing blockchain solutions. Adept at leading development teams, driving innovation, and contributing to open-source projects. Committed to staying at the forefront of blockchain technology.
 
 ## Skills
 - **Blockchain Technologies:** Polkadot, Substrate, Solidity, Ethereum, Solana
